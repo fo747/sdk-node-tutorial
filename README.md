@@ -67,7 +67,7 @@ Everything that doesn't concern OAuth.io's integration has already been written 
 To checkout tutorial Github repository, just run the following commands :
 
 ```sh
-$ git clone https://github.com/oauthio/sdk-node-tutorial
+$ git clone https://github.com/oauthio/sdk-node-tutorial.git
 ```
 
 To get the beginning point and start coding, checkout the `step-0` tag :
